@@ -2,10 +2,6 @@
 layout: page
 title: About
 permalink: /about/
-toc: true
-toc_label: "Table of Contents"
-toc_icon: "file"  
-toc_sticky: true
 ---
 
 Project Duration: September 2023 - December 2023

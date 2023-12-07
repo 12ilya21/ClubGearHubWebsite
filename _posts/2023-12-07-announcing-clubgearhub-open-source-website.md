@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Announcing ClubGearHub Open Source Website"
 date:   2023-12-07 01:21:20 +0900
 ---
