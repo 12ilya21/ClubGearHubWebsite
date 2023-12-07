@@ -3,10 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-classes: wide
 ---
 
-# Welcome to ClubGearHub Website!
+## Welcome to ClubGearHub Website!
 
 ClubGearHub optimizes equipment management for clubs, ensuring efficient use and resources for club activities by systematically managing and tracking equipment.
 
