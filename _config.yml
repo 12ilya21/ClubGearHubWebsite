@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: ClubGearHub
-email: your-email@example.com
+email: 12ilya21@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
   ClubGearHub optimizes equipment management for clubs, ensuring efficient use and resources for club activities by systematically managing and tracking equipment.
 baseurl: "/ClubGearHubWebsite" # the subpath of your site, e.g. /blog
