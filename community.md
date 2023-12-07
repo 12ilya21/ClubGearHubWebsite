@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Community
 permalink: /community/
 ---
@@ -9,7 +9,7 @@ ClubGearHub open source project has inspired an enthusiastic and active communit
 ## Getting help
 
 ### Discord server
-On the [ClubGearHub Discord server](), you can chat with members of the ClubGearHub community in real time. You'll meet ClubGearHub users, contributors, and developer advocates. This is a great place to stop in for quick questions or to share your latest ClubGearHub discoveries.
+On the [ClubGearHub Discord server](https://discord.gg/6QGbHmW3), you can chat with members of the ClubGearHub community in real time. You'll meet ClubGearHub users, contributors, and developer advocates. This is a great place to stop in for quick questions or to share your latest ClubGearHub discoveries.
 
 ### Mailing list
 Join the [ClubGearHub mailing list](https://groups.google.com/g/clubgearhub/members) to discuss the ongoing development of ClubGearHub and to find out about new ClubGearHub releases.

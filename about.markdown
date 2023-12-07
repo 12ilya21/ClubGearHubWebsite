@@ -1,10 +1,10 @@
 ---
-layout: single
+layout: pagea
 title: About
 permalink: /about/
 toc: true
 toc_label: "Table of Contents"
-toc_icon: "file"  # corresponding Font Awesome icon name (without fa prefix)
+toc_icon: "file"  
 toc_sticky: true
 ---
 
