@@ -18,5 +18,5 @@ ClubGearHub optimizes equipment management for clubs, ensuring efficient use and
 -  Utilizes equipment usage data for optimization and maintenance scheduling.
 
 
-<button onclick="location.href=''">[DOWNLOAD ↓]()</button>
+<a href="./download/ClubGearHub.zip" download><button type="button">DOWNLOAD ↓</button></a>
 <button onclick="location.href='https://clubgearhub.readthedocs.io/en/latest'">[DOCUMENTATION →](https://clubgearhub.readthedocs.io/en/latest)</button>
