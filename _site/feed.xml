@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-12-07T01:23:27+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ClubGearHub</title><subtitle>ClubGearHub optimizes equipment management for clubs, ensuring efficient use and resources for club activities by systematically managing and tracking equipment.</subtitle><author><name>Your Name</name></author><entry><title type="html">Announcing ClubGearHub Open Source Website</title><link href="http://localhost:4000/announcing-clubgearhub-open-source-website/" rel="alternate" type="text/html" title="Announcing ClubGearHub Open Source Website" /><published>2023-12-07T01:21:20+09:00</published><updated>2023-12-07T01:21:20+09:00</updated><id>http://localhost:4000/announcing-clubgearhub-open-source-website</id><content type="html" xml:base="http://localhost:4000/announcing-clubgearhub-open-source-website/"><![CDATA[<p>Hello ClubGearHub community,</p>
+
+<p>We’re excited to announce the launch of the official ClubGearHub Open Source Website! This platform has been created to enhance the overall experience for our community members and contributors. Here’s a brief overview of the key pages you’ll find on our website:</p>
+
+<ol>
+  <li>
+    <p>About<br />
+Learn more about the vision, mission, and goals of ClubGearHub. Discover the story behind the project and get to know the passionate individuals driving its development.</p>
+  </li>
+  <li>
+    <p>Features<br />
+Explore the rich set of features that make ClubGearHub a powerful tool for clubs and organizations. From convenient equipment management to real-time tracking, we’ve designed ClubGearHub with efficiency and optimization in mind.</p>
+  </li>
+  <li>
+    <p>Contact<br />
+Have questions or feedback? The Contact page is your direct line to the ClubGearHub team. Reach out to us with your inquiries, suggestions, or just to say hello. We value your input and look forward to hearing from you.</p>
+  </li>
+  <li>
+    <p>Community<br />
+Connect with the ClubGearHub community on our Discord server and join our mailing list for the latest updates and discussions. Engage with fellow enthusiasts, share your experiences, and be part of a vibrant community dedicated to improving equipment management for clubs.</p>
+  </li>
+</ol>
+
+<p>We invite you to explore the ClubGearHub Open Source Website and become an active member of our growing community. Your feedback and contributions are essential as we continue to enhance and refine ClubGearHub.</p>
+
+<p>Thank you for being part of this exciting journey!</p>]]></content><author><name>Your Name</name></author><summary type="html"><![CDATA[Hello ClubGearHub community,]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2023-12-06T18:10:41+09:00</published><updated>2023-12-06T18:10:41+09:00</updated><id>http://localhost:4000/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name>Your Name</name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
