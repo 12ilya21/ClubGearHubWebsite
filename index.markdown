@@ -5,7 +5,7 @@
 layout: home
 ---
 
-## Welcome to ClubGearHub Website!
+# Welcome to ClubGearHub Website!
 
 ClubGearHub optimizes equipment management for clubs, ensuring efficient use and resources for club activities by systematically managing and tracking equipment.
 
@@ -18,5 +18,5 @@ ClubGearHub optimizes equipment management for clubs, ensuring efficient use and
 -  Utilizes equipment usage data for optimization and maintenance scheduling.
 
 
-<button onclick="location.href=''">[DOWNLOAD ↓](https://clubgearhub.readthedocs.io/en/latest)</button>
+<button onclick="location.href=''">[DOWNLOAD ↓]()</button>
 <button onclick="location.href='https://clubgearhub.readthedocs.io/en/latest'">[DOCUMENTATION →](https://clubgearhub.readthedocs.io/en/latest)</button>
